@@ -1,42 +1,53 @@
 body {
-	background-color: lightgray;
+	background-color: #D35400;
+}
+
+.row {
+  width: 100%;
 }
 
 h1 {
-  margin-bottom: 5px;
-  width: 150px;
+  width: 200px;
+  font-size: 200%;
+  margin-bottom: 25px;
   margin-right: auto;
   margin-left: auto;
 }
 
 h2 {
-  border: 3px solid black;
-  padding: 3px;
+  width: 120px;
+  border: 1px solid black;
+  margin-top: 0px;
+  margin-right: 4%;
+  padding: 5px;
 	position: relative;
-  right: 3px;
+  font-size: 175%;
   float: right;
 }
 
 .t1 {
-  background-color: blanchedalmond;
+  background-color: #27AE60;
 }
 
 .t2 {
-  background-color: chartreuse;
+  background-color: #C0392B;
 }
 
 .t3 {
-  background-color: coral;
+  background-color: #F1C40F;
 }
 
 p {
   border: 1px solid black;
-  background-color: #A52A2A;
-  width: 100%;
+  background-color: #873600;
+  width: 95%;
   height: 150px;
-  padding: 25px;
-  margin-left: 5px;
-  margin-top: 5px;
+  padding-top: 60px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 0px;
+  margin-left: 10px;
   font-family: Helvetica;
+  font-size: 100%;
   color: black;
 }
